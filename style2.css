@@ -1,0 +1,14 @@
+*
+{
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+
+.homepage
+{
+    text-align: center;
+    background-color: coral;
+    color: beige;
+}
